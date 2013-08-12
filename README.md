@@ -5,12 +5,14 @@ University's CodeSkulptor interface. Go to http://www.codeskulptor.org
 and enter the script into the left panel. Click the 'play' button in
 the upper left corner to start the program.
 
-Click the center panel to start the game
-Arrows to move
-Space to shoot the rocks
-Z to zoom
-B to launch a bomb
-S to launch scatter shot
+<ul>
+<li>Click the center panel to start the game</li>
+<li>Arrows to move</li>
+<li>Space to shoot the rocks</li>
+Z to zoom</li>
+<li>B to launch a bomb</li>
+<li>S to launch scatter shot</li>
+</ul
 
 Enjoy! 
 
