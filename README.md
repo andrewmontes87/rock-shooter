@@ -12,7 +12,7 @@ the upper left corner to start the program.
 Z to zoom</li>
 <li>B to launch a bomb</li>
 <li>S to launch scatter shot</li>
-</ul
+</ul>
 
 Enjoy! 
 
